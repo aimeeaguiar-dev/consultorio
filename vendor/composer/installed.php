@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'wdev/vagas',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '2f950537655d2d51eeaef383f34ea20b7b723f74',
+        'name' => 'ifto/consultorio',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'wdev/vagas' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '2f950537655d2d51eeaef383f34ea20b7b723f74',
+        'ifto/consultorio' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
